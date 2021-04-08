@@ -22,7 +22,7 @@ issue](https://github.com/kkimmy/awesome-conan/issues).
   - [Articles/Blogs](#articlesblogs)
   - [Videos](#videos)
   - [Slides](#slides)
-  - [Projects around Conan](#projects-around-conan)
+  - [Tools](#tools)
   - [Misc](#misc)
 
 ## Resources
@@ -47,8 +47,7 @@ issue](https://github.com/kkimmy/awesome-conan/issues).
 - [Conan package manager tutorial](https://levelup.gitconnected.com/conan-package-manager-tutorial-bfb308ddd7a) 
 - [Hello_conan](https://github.com/kkimmy/hello_conan)
 - [Introduction to Conan package manager](https://kubasejdak.com/introduction-to-conan-package-manager)
-- []()
-- []()
+- [Converting a C++ project to CMake & Conan](https://codetrips.com/2020/03/20/1198/)
 
 ### Articles/Blogs
 
@@ -57,6 +56,7 @@ issue](https://github.com/kkimmy/awesome-conan/issues).
 - [The C and C++ Package Manager](https://verifa.io/insights/the-c-and-c-package-manager/)
 - [CPP/C++ - Package Managers](https://caiorss.github.io/C-Cpp-Notes/package-managers.htm)
 - [Getting Started with the Conan CLion Plugin](https://blog.jetbrains.com/clion/2019/05/getting-started-with-the-conan-clion-plugin/)
+- [Managing Machine Learning Software Integration with Conan](https://blogs.itemis.com/en/managing-machine-learning-software-integration-with-conan)
 
 ### Videos
 
@@ -76,9 +76,11 @@ issue](https://github.com/kkimmy/awesome-conan/issues).
 - [Packaging C/C++ dependencies with Conan at Tanker](https://archive.fosdem.org/2018/schedule/event/conan/attachments/slides/2129/export/events/attachments/conan/slides/2129/fosdem2018_conan_16_9.pdf) 
 - [Conan Package Manager in Practice](https://corecppil.github.io/Meetups/2021-03-24_Core_C++_Spring_Break/IntroToConan_Demo_C++_Meetup.pdf)
 
-### Projects around Conan
+### Tools
 
 - [conan-ue4cli Python package](https://docs.adamrehn.com/conan-ue4cli/read-these-first/introduction-to-conan-ue4cli)
 - [Conan CLion plugin](https://plugins.jetbrains.com/plugin/11956-conan)
+- [Conan Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=conan-io.conan-vs-extension)
 
 ### Misc
+
