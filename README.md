@@ -81,6 +81,8 @@ issue](https://github.com/kkimmy/awesome-conan/issues).
 - [conan-ue4cli Python package](https://docs.adamrehn.com/conan-ue4cli/read-these-first/introduction-to-conan-ue4cli)
 - [Conan CLion plugin](https://plugins.jetbrains.com/plugin/11956-conan)
 - [Conan Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=conan-io.conan-vs-extension)
+- [CCI dependencies bumper](https://ericlemanissier.github.io/conan-center-index-bump-deps/)
+- [CCI updatable recipes](https://github.com/conan-io/conan-center-index/issues/3470)
 
 ### Misc
 
